@@ -1,12 +1,16 @@
+antlr4-python3-runtime==4.9.2
 click==8.0.4
-dataclasses==0.8
 Flask==2.0.3
 Flask-SQLAlchemy==2.5.1
 importlib-metadata==4.8.3
 itsdangerous==2.0.1
 Jinja2==3.0.3
 MarkupSafe==2.0.1
+pystache==0.6.0
+sidekick-agent-python==0.0.9
+six==1.16.0
 SQLAlchemy==1.4.41
 typing_extensions==4.1.1
+websocket-client==1.4.1
 Werkzeug==2.0.3
 zipp==3.6.0
