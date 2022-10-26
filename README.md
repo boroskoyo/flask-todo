@@ -34,6 +34,7 @@ $ export SIDEKICK_APIKEY=<YOUR-SIDEKICK-API-KEY>
 $ export SIDEKICK_APPLICATION_NAME=flask-todo
 $ export SIDEKICK_APPLICATION_STAGE=dev
 $ export SIDEKICK_APPLICATION_VERSION=1.0
+$ export SIDEKICK_BROKER_HOST=wss://127.0.0.1 //only if you are running a self hosted version
 ```
 
 or on Windows
@@ -44,6 +45,7 @@ $ set SIDEKICK_APIKEY=<YOUR-SIDEKICK-API-KEY>
 $ set SIDEKICK_APPLICATION_NAME=flask-todo
 $ set SIDEKICK_APPLICATION_STAGE=dev
 $ set SIDEKICK_APPLICATION_VERSION=1.0
+$ set SIDEKICK_BROKER_HOST=wss://127.0.0.1 //only if you are running a self hosted version
 ```
 
 Run the app
