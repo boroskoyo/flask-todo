@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="30%" height="30%" src="https://4750167.fs1.hubspotusercontent-na1.net/hubfs/4750167/sidekick_v2/sidekick-pycharm.png">
+  <img width="60%" height="60%" src="https://4750167.fs1.hubspotusercontent-na1.net/hubfs/4750167/sidekick_v2/sidekick-pycharm.png">
 </p>
 <p align="center">
     <a href="https://github.com/runsidekick/sidekick" target="_blank"><img src="https://img.shields.io/github/license/runsidekick/sidekick?style=for-the-badge" alt="Sidekick Licence" /></a>&nbsp;
